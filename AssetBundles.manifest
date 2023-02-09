@@ -1,7 +1,10 @@
 ManifestFileVersion: 0
-CRC: 2862093889
+CRC: 4137384453
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: samplefolder/sample
+      Dependencies: {}
+    Info_1:
+      Name: samplefolder/cubeprefab
       Dependencies: {}
